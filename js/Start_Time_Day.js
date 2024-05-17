@@ -1,4 +1,4 @@
-// Start_Time_Day.js
+// Start_Time_Day.js 沒css
 /* 範例
 <div> 
     今天是:   <span id="currentDay"></span> <br>

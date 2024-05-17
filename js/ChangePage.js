@@ -1,6 +1,6 @@
-// 定义全局变量
+// 定义全局变量 
 var currentPage = 1;
-var totalPages = 3; // 假设总页数为 3
+var totalPages = 3; // 假设总页数为 3 看需要按鈕數量
 
 // 页面加载完毕后执行初始化函数
 window.onload = function() {
