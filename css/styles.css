@@ -686,7 +686,6 @@ progress {
 /* 結尾介紹單 */
 #footer-bg {
     padding: 20px 0;
-	
 }
 
 #footer-bg div ul {
@@ -775,7 +774,7 @@ progress {
 .imageEffects {
   position: relative;
   width: 90%;
-  max-width: 400px;
+
   margin: auto;
   overflow: hidden;
 }
@@ -8157,15 +8156,15 @@ textarea.form-control-lg {
   line-height: 2 !important;
 }
 
-.text-start {
+.text-start { /* 排版左下 */
   text-align: left !important;
 }
 
-.text-end {
+.text-end { /* 排版右下*/
   text-align: right !important;
 }
 
-.text-center {
+.text-center { /* 排版下中*/
   text-align: center !important;
 }
 
